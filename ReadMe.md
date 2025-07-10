@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey, I'm Muhammed! 👋<br><br>I'm a Computer Engineering student @Gazi University 🎓  <br>Currently diving deep into Python ☕ and preparing for a career in Data Engineering 📊<br><br>🚀 My current focus:  <br>- Building solid foundations in software development  <br>- Improving my German 🇩🇪 and English 🇬🇧  <br>- Participating in tech competitions 🚁
+### Hey, I'm Muhammed! 👋<br><br>I'm a Computer Engineering student @Gazi University 🎓  <br>Currently diving deep into Python 🐍 and preparing for a career in Data Engineering 📊<br><br>🚀 My current focus:  <br>- Building solid foundations in software development  <br>- Improving my German 🇩🇪 and English 🇬🇧  <br>- Participating in tech competitions 🚁
 
 
 ## 🌐 Socials:
