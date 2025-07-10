@@ -2,10 +2,6 @@
 ### Hey, I'm Muhammed! 👋<br><br>I'm a Computer Engineering student @Gazi University 🎓  <br>Currently diving deep into Java ☕ and preparing for a career in Data Engineering 📊<br><br>🚀 My current focus:  <br>- Building solid foundations in software development  <br>- Improving my German 🇩🇪 and English 🇬🇧  <br>- Participating in tech competitions 🚁  <br><br>🛠️ Languages & Tools I use:<br>Python | Java | C# | Git | VSCode  <br><br>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-koseoglu/) | [Email](mailto:mk122609@gmail.com)  
 
 
-# 💫 About Me:
-### Hey, I'm Muhammed! 👋<br><br>I'm a Computer Engineering student @Gazi University 🎓  <br>Currently diving deep into Java ☕ and preparing for a career in Data Engineering 📊<br><br>🚀 My current focus:  <br>- Building solid foundations in software development  <br>- Improving my German 🇩🇪 and English 🇬🇧  <br>- Participating in tech competitions 🚁  <br><br>🛠️ Languages & Tools I use:<br>Python | Java | C# | Git | VSCode  <br><br>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-koseoglu/) | [Email](mailto:mk122609@gmail.com)  
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mkoseoglu67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-koseoglu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14943306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mk122609@gmail.com) 
 
