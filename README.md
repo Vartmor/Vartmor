@@ -256,23 +256,21 @@ Written as a proof that design patterns are not academic decoration: swapping a 
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vartmor&theme=radical" />
-
-<br/>
-
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vartmor&theme=radical" />
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vartmor&theme=radical" />
-
-<br/>
-
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vartmor&theme=radical" />
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vartmor&theme=radical&utcOffset=3" />
-
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=Vartmor&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img height="195" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vartmor?cardType=level&theme=radical&preferLogin=false" alt="GitHub Stats" />
+<img height="195" src="https://streak-stats.demolab.com?user=Vartmor&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
+
+**Language Distribution**
+
+| Language | Share | |
+| :--- | ---: | :--- |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `58.1%` | ███████████████████████ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `33.5%` | █████████████ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `3.2%` | █ |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | `2.0%` | █ |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | `1.4%` | █ |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | `1.4%` | █ |
 
 ---
 
